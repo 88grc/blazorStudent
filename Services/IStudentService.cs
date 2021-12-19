@@ -10,5 +10,8 @@ namespace UAS.Services
     {
         Task<IEnumerable<Student>> GetAll();
         Task<Student> GetById(string id);
+        Task<Student> Add(Student student);
+        Task<Student> Update( string id, Student student);
+        Task Delete(string id);
     }
 }

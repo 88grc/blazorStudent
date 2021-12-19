@@ -107,39 +107,6 @@
         }
       },
       {
-        "HashCode": 2065925200,
-        "Kind": "Components.Component",
-        "Name": "UAS.Pages.Index",
-        "AssemblyName": "UAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -709426919,
-        "Kind": "Components.Component",
-        "Name": "UAS.Pages.Index",
-        "AssemblyName": "UAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2112928342,
         "Kind": "Components.Component",
         "Name": "UAS.Pages.StudentPage",
@@ -222,6 +189,178 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UAS.Pages.DetailStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 37617107,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.EditStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.EditStudent"
+        }
+      },
+      {
+        "HashCode": 244678615,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.EditStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS.Pages.EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.EditStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2065925200,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.Index",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -709426919,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.Index",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 192897105,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.AddStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddStudent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.AddStudent"
+        }
+      },
+      {
+        "HashCode": -1516246324,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.AddStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS.Pages.AddStudent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.AddStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1145485023,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.DeleteStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 147533345,
+        "Kind": "Components.Component",
+        "Name": "UAS.Pages.DeleteStudent",
+        "AssemblyName": "UAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS.Pages.DeleteStudent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13105,6 +13244,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "e:\\5\\Pemrograman Front End\\SourceCode\\UAS\\Pages\\EditStudent.razor",
+      "TargetPath": "Pages\\EditStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "e:\\5\\Pemrograman Front End\\SourceCode\\UAS\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
@@ -13130,8 +13274,18 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "e:\\5\\Pemrograman Front End\\SourceCode\\UAS\\Pages\\AddStudent.razor",
+      "TargetPath": "Pages\\AddStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "e:\\5\\Pemrograman Front End\\SourceCode\\UAS\\Pages\\DetailStudent.razor",
       "TargetPath": "Pages\\DetailStudent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\5\\Pemrograman Front End\\SourceCode\\UAS\\Pages\\DeleteStudent.razor",
+      "TargetPath": "Pages\\DeleteStudent.razor",
       "FileKind": "component"
     },
     {

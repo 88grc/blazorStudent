@@ -1,7 +1,8 @@
 @page "/studentpage"
 
 <h3>List of Student</h3>
-<a href="#">Create New</a>
+<a href="addstudent">Create New</a>
+<hr>
 <table class="table table-striped">
     <thead>
         <tr>
@@ -21,8 +22,8 @@
                 <td>
                     <a href="@($"studentdetail/{std.StudentId}")" class="btn btn-info">detail</a>
                     <a href="#" class="btn btn-primary">enroll</a>
-                    <a href="#" class="btn btn-warning">edit</a>
-                    <a href="#" class="btn btn-danger">delete</a>
+                    <a href="@($"editstudent/{std.StudentId}")" class="btn btn-warning">edit</a>
+                    <a href="@($"deletestudent/{std.StudentId}")" class="btn btn-danger">delete</a>
                 </td>
             </tr>
         }

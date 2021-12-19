@@ -634,3 +634,9 @@ E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\RazorDeclaration\Page
 E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
 E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\DetailStudent.razor.g.cs
 E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\Razor\Pages\DetailStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+E:\5\Pemrograman Front End\SourceCode\UAS\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
